@@ -1,0 +1,4 @@
+// 頻繁に@useを使うファイルをまとめるファイル
+// 使いたいパーシャルファイル内で @use "../../foundation/index" as *; で使用
+@forward "variable";
+@forward "mixin";

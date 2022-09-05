@@ -1,0 +1,72 @@
+@charset "utf-8";
+// base
+@use "./foundation/_reset";
+@use "./foundation/_base";
+@use "./foundation/index" as *;
+// layout
+@use "./layout/main";
+// component
+// @use "./object/component/animation";
+// @use "./object/component/background";
+// @use "./object/component/form";
+// @use "./object/component/btn";
+// @use "./object/component/link";
+// @use "./object/component/sns";
+// @use "./object/component/subtitle";
+// @use "./object/component/text";
+// @use "./object/component/line-btn";
+// @use "./object/component/rounded-btn";
+// @use "./object/component/page-top";
+// @use "./object/component/scroll-sign";
+// @use "./object/component/scroll-bar";
+// project
+// @use "./object/project/archive";
+// @use "./object/project/author";
+// @use "./object/project/card";
+// @use "./object/project/contact";
+// @use "./object/project/contents";
+// @use "./object/project/description";
+// @use "./object/project/feature";
+// @use "./object/project/hamburger";
+// @use "./object/project/header-menu";
+// @use "./object/project/header";
+// @use "./object/project/footer";
+// @use "./object/project/footer-menu";
+// @use "./object/project/others";
+// @use "./object/project/pagenation";
+// @use "./object/project/period";
+// @use "./object/project/single";
+// @use "./object/project/support";
+// @use "./object/project/tabs";
+// @use "./object/project/teacher";
+// @use "./object/project/title-area";
+// @use "./object/project/tools";
+// @use "./object/project/type";
+// @use "./object/project/hero";
+// @use "./object/project/introduction";
+// @use "./object/project/good-or-not";
+// @use "./object/project/good-or-not-anime";
+// @use "./object/project/introduction-anime";
+// @use "./object/project/review";
+// @use "./object/project/page-line";
+// utility
+// @use "./object/utility/display";
+// @use "./object/utility/margin";
+// @use "./object/utility/menu-filter";
+// @use "./object/utility/overflow";
+// @use "./object/utility/padding";
+
+/*
+Theme Name: sho_project
+Description: オンライン個別サポート塾　翔のサイト
+Version: 1.0.0
+Theme URI: https://github.com/Mackie-S/sho_project
+Author: Mackie, Murakami, Ohta
+Author URI: https://github.com/Mackie-S
+Tags: blog
+License: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: sho_project
+Tested up to:5.9
+Requires PHP:7.4.1
+*/
